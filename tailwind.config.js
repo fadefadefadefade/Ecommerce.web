@@ -17,8 +17,12 @@ export default {
           light: '#E4C97A',
           dark: '#A6853A',
         },
-        cream: '#FAF7F0',
+        cream: {
+          DEFAULT: '#F5F5F5',
+          dim: '#EFEFEF',
+        },
         ink: '#1B1F27',
+        oxblood: '#D0021B',
       },
       fontFamily: {
         display: ['"Playfair Display"', 'serif'],
